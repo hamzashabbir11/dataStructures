@@ -28,7 +28,7 @@ for i in range(1,r):
     e.append(l[-i])
 
 print('Reverse list is', e)
-
+#
     
     
 
