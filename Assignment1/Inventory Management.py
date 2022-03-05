@@ -21,7 +21,6 @@ for i in range(len(product_list)):
     if price_list[i]<price_usd:
         print(product_list[i])
         
-   
 
 
    
