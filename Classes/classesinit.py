@@ -15,5 +15,10 @@ print(nft1.price)
 nft1.greetMe()
 nft1.blockchain='Polygon'
 print(nft1.blockchain)
+#nft.greetMe()
+l=[]
+l.append(1)
+
+
 
         

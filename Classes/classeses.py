@@ -7,3 +7,4 @@ bored_ape=nft()
 print(nft.x)
 print(nft.y)
 print(bored_ape.x)
+
