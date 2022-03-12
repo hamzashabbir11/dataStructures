@@ -7,5 +7,10 @@
 
 ```py
 print("Hello World")
+
 ```
-🚀
+```diff
+-print("Hello World")
++print("Hello World from Hamza")
+```
+🚀 💌
