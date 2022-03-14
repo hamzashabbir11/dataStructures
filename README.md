@@ -25,4 +25,7 @@ print("Hello World")
 l=[1,2,3,4]
 print(l[0])
 ```
+
+*This text is Italic and **bold***
+
 🚀 💌
