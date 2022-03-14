@@ -13,6 +13,12 @@ print("Hello World")
 -print("Hello World")
 +print("Hello World from Hamza")
 ```
+#### Linear Data Structures 
+- list
+- link list
+- Doubly Link List 
+#### Non-Linear Data Structures 
+- Tree
 
 ```py
 #Creating a list in python 
