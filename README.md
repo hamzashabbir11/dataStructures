@@ -13,4 +13,10 @@ print("Hello World")
 -print("Hello World")
 +print("Hello World from Hamza")
 ```
+
+```py
+#Creating a list in python 
+l=[1,2,3,4]
+print(l[0])
+```
 🚀 💌
