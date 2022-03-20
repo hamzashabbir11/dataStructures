@@ -28,4 +28,4 @@ print(l[0])
 
 *This text is Italic and **bold***
 
-🚀 💌
+🚀 💌 🏖️ 🔴
