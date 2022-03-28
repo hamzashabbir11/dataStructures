@@ -39,6 +39,7 @@ print(root.right.left.data)
 print(root.right.right.data)
 
 
+
 '''
       1
    /     \
