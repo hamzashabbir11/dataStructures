@@ -38,11 +38,18 @@ root.right.right=Node(7)
 print(root.right.left.data)
 print(root.right.right.data)
 
+root.left.left.left=Node(8)
+print(root.left.left.left.data)
+root.left.left.right=Node(9)
+print(root.left.left.right.data)
 
 
 '''
-      1
-   /     \
-  2       3 
- / \     / \
-4   5   6   7        '''  
+            1
+        /     \
+        2       3 
+      / \     / \
+     4   5   6   7  
+    /       
+   8
+                      '''  
