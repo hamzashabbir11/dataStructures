@@ -1,0 +1,17 @@
+import pyautogui as pg
+import time
+name=input('Enter Name ')
+x,y=pg.position()
+print(x,y)
+pg.moveTo(1224,1035)
+pg.click()
+pg.moveTo(274,175)
+pg.click()
+pg.write(name)
+time.sleep(1)
+pg.moveTo(280,359)
+pg.click()
+pg.moveTo(924,964)
+pg.click()
+pg.write("Hi am Bot \n")
+pg.press('enter')
